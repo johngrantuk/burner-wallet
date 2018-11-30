@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/burner-wallet/static/css/main.497b276e.chunk.css"
   },
   {
-    "revision": "0d1597afb5abbccd65bf5131bdf0348f",
+    "revision": "5d177b9f2cb93995da97a1046bca4107",
     "url": "/burner-wallet/index.html"
   }
 ];
