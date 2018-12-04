@@ -68,7 +68,7 @@ export default class ScannerTest extends React.Component {
             delay={this.state.delay}
             onError={this.handleError}
             onScan={this.handleScan}
-            style={{ width: "30%", height: "30%" }}
+            style={{ width: "60%", height: "60%" }}
             legacyMode={true}
           />
         </div>
@@ -83,7 +83,7 @@ export default class ScannerTest extends React.Component {
             delay={this.state.delay}
             onError={this.handleError}
             onScan={this.handleScan}
-            style={{ width: "30%", height: "30%" }}
+            style={{ width: "60%", height: "60%" }}
           />
       }
 
