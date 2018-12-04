@@ -361,7 +361,6 @@ class App extends Component {
 
     return (
       <div className="App">
-        <h1>TEST</h1>
         <Dapparatus
           config={{
             DEBUG:false,
