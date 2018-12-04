@@ -1,13 +1,15 @@
 {
-  "main.css": "/burner-wallet/static/css/main.497b276e.chunk.css",
-  "main.js": "/burner-wallet/static/js/main.76381e32.chunk.js",
-  "main.js.map": "/burner-wallet/static/js/main.76381e32.chunk.js.map",
-  "static/js/1.f68dcc1a.chunk.js": "/burner-wallet/static/js/1.f68dcc1a.chunk.js",
-  "static/js/1.f68dcc1a.chunk.js.map": "/burner-wallet/static/js/1.f68dcc1a.chunk.js.map",
+  "main.css": "/burner-wallet/static/css/main.dd60757d.chunk.css",
+  "main.js": "/burner-wallet/static/js/main.0ee3bebf.chunk.js",
+  "main.js.map": "/burner-wallet/static/js/main.0ee3bebf.chunk.js.map",
+  "static/css/1.bacecf82.chunk.css": "/burner-wallet/static/css/1.bacecf82.chunk.css",
+  "static/js/1.4e4be607.chunk.js": "/burner-wallet/static/js/1.4e4be607.chunk.js",
+  "static/js/1.4e4be607.chunk.js.map": "/burner-wallet/static/js/1.4e4be607.chunk.js.map",
   "runtime~main.js": "/burner-wallet/static/js/runtime~main.54752175.js",
   "runtime~main.js.map": "/burner-wallet/static/js/runtime~main.54752175.js.map",
-  "static/css/main.497b276e.chunk.css.map": "/burner-wallet/static/css/main.497b276e.chunk.css.map",
+  "static/css/1.bacecf82.chunk.css.map": "/burner-wallet/static/css/1.bacecf82.chunk.css.map",
+  "static/css/main.dd60757d.chunk.css.map": "/burner-wallet/static/css/main.dd60757d.chunk.css.map",
   "index.html": "/burner-wallet/index.html",
-  "precache-manifest.e7c776aef404e7abde8652624a7d2b3c.js": "/burner-wallet/precache-manifest.e7c776aef404e7abde8652624a7d2b3c.js",
+  "precache-manifest.29d467bcd9415e3d7b57dfda8c1a4041.js": "/burner-wallet/precache-manifest.29d467bcd9415e3d7b57dfda8c1a4041.js",
   "service-worker.js": "/burner-wallet/service-worker.js"
 }
